@@ -1,4 +1,4 @@
-# Solar-tracker
+# Solar-tracker 2022
 This code is intended for a solar tracker that tracks sunlight to increase the efficiency of PV panels.
 The tracking system is powered by four LDRs (Light Dependent Resistors) to determine the sun's position; an electric actuator for rotation; and an Arduino UNO board.
 The system is single-axis.
